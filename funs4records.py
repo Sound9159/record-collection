@@ -1,7 +1,6 @@
 """
 This module is required for 'main' in 'Record_Collection' project.
 """
-# jdjfnjs
 
 # **** INNER FUNCTIONS **** #
 
